@@ -1,3 +1,5 @@
+# Script to move all files in directories and subdirectories to the root folder
+
 import os
 import shutil
 

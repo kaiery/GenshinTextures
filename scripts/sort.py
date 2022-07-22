@@ -1,3 +1,5 @@
+# Script to sort all files in folders, not finished script
+
 import os
 import shutil
 

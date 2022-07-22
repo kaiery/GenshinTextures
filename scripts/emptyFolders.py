@@ -1,3 +1,5 @@
+# Script to remove all empty folders
+
 import os
 import shutil
 
